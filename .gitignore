@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Database / runtime artifacts
+*.db
+*.sqlite3
+uploads/*
+!uploads/.gitkeep
+reports/*
+!reports/.gitkeep
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+.npm/
+.env.local
+*.tsbuildinfo
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

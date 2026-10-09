@@ -1,0 +1,118 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 4083 >>
+stream
+BT
+/F1 9 Tf
+11 TL
+30 565 Td
+(AUDITFLOW DEMO BANK - Statement of Account) Tj
+T*
+(Account No: XXXXXX4411   Period: 01/01/2025 to 31/01/2025) Tj
+T*
+() Tj
+T*
+(Date        Narration                                         Debit        Credit         Balance) Tj
+T*
+(Opening Balance 1,000,000.00) Tj
+T*
+(02/01/2025 NEFT-ABC SUPPLIERS PVT LTD-INV1001 UTR HDFCN25002123401           45,000.00     955,000.00) Tj
+T*
+(02/01/2025 UPI-SWIGGY CORPORATE                                               3,250.00     951,750.00) Tj
+T*
+(03/01/2025 RTGS-GLOBAL TECH SOLUTIONS LTD UTR HDFCR25003998812              150,000.00     801,750.00) Tj
+T*
+(03/01/2025 NEFT CR-XYZ CLIENT LLP UTR SBINN25003112233                      275,000.00   1,076,750.00) Tj
+T*
+(04/01/2025 IMPS-OFFICE MART STATIONERY                                        8,420.00   1,068,330.00) Tj
+T*
+(05/01/2025 UPI-ZOMATO                                                         2,100.00   1,066,230.00) Tj
+T*
+(06/01/2025 NEFT-RELIANCE POWER BILL                                          18,760.00   1,047,470.00) Tj
+T*
+(07/01/2025 BANK CHARGES-SMS ALERT QTR                                           118.00   1,047,352.00) Tj
+T*
+(08/01/2025 NEFT-KUMAR TRANSPORT                                              22,500.00   1,024,852.00) Tj
+T*
+(09/01/2025 NEFT-LAKSHMI TEXTILES                                             64,000.00     960,852.00) Tj
+T*
+(10/01/2025 UPI-AMAZON BUSINESS                                               12,999.00     947,853.00) Tj
+T*
+(11/01/2025 CHQ DEP-PATEL & SONS                                              98,000.00   1,045,853.00) Tj
+T*
+(12/01/2025 NEFT-DELTA PRINTING                                               15,750.00   1,030,103.00) Tj
+T*
+(13/01/2025 NEFT-SHARMA CONSULTANTS                                           35,000.00     995,103.00) Tj
+T*
+(14/01/2025 NEFT-ZENITH LOGISTICS UTR AXISN25014000111                        52,000.00     943,103.00) Tj
+T*
+(14/01/2025 NEFT-ZENITH LOGISTICS UTR AXISN25014000222                        52,000.00     891,103.00) Tj
+T*
+(15/01/2025 NEFT-VERMA ENGINEERING WORKS                                      76,500.00     814,603.00) Tj
+T*
+(16/01/2025 NEFT-HIGH TENSION CABLES IND UTR ICICN25016777001                450,000.00     364,603.00) Tj
+T*
+(17/01/2025 CASH WITHDRAWAL SELF CHQ 000451                                  120,000.00     244,603.00) Tj
+T*
+(18/01/2025 NEFT-MEHTA PACKAGING                                              28,300.00     216,303.00) Tj
+T*
+(19/01/2025 NEFT-ROYAL CATERERS                                               26,400.00     189,903.00) Tj
+T*
+(20/01/2025 UPI-GOOGLE WORKSPACE                                               4,720.00     185,183.00) Tj
+T*
+(21/01/2025 NEFT-ORION SOFTWARE LICENSES                                      95,000.00      90,183.00) Tj
+T*
+(22/01/2025 NEFT CR-SINGH & CO ADVISORS                                       56,000.00     146,183.00) Tj
+T*
+(23/01/2025 NEFT-TRIPATHI FREIGHT                                             31,000.00     115,183.00) Tj
+T*
+(24/01/2025 EMI-HDFC LOAN 4411                                                42,000.00      73,183.00) Tj
+T*
+(25/01/2025 NEFT CR-ARORA RETAIL                                             310,000.00     383,183.00) Tj
+T*
+(26/01/2025 NEFT-KAPOOR HARDWARE                                              11,800.00     371,383.00) Tj
+T*
+(27/01/2025 NEFT-ABC SUPPLIERS PVT LTD-INV1022 UTR HDFCN25027555123           38,500.00     332,883.00) Tj
+T*
+(28/01/2025 NEFT-NATIONAL INSURANCE CO                                        22,000.00     310,883.00) Tj
+T*
+(29/01/2025 UPI-UBER INDIA                                                     1,850.00     309,033.00) Tj
+T*
+(30/01/2025 NEFT-IYER ASSOCIATES                                              67,000.00     242,033.00) Tj
+T*
+(31/01/2025 INTEREST CREDIT                                                    2,140.50     244,173.50) Tj
+T*
+(31/01/2025 NEFT-QUICKFIX TRADERS                                             99,500.00     144,673.50) Tj
+T*
+() Tj
+T*
+(Closing Balance 144,673.50) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000183 00000 n 
+0000000309 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+4444
+%%EOF

@@ -1,0 +1,33 @@
+Date,Vendor,Description,Debit,Credit,Invoice Number,Reference
+2025-01-02,ABC Supplier,Payment for INV1001,"45,000.00",,INV1001,HDFCN25002123401
+2025-01-02,Swiggy,Team lunch,"3,250.00",,,
+2025-01-03,Global Tech Solutions Ltd,Server hardware,"150,000.00",,,HDFCR25003998812
+03-Jan-2025,XYZ Client LLP,Receipt against invoice 2024-118,,"275,000.00",,SBINN25003112233
+2025-01-04,Office Mart Stationery,Stationery purchase,"8,420.00",,,
+2025-01-06,Zomato,Staff meals,"2,100.00",,,
+2025-01-06,Reliance Power,Electricity - January,"18,760.00",,,
+10-Jan-2025,Kumar Transport,Freight charges,"22,500.00",,,
+2025-01-09,Lakshmi Textiles,Fabric purchase,"64,000.00",,,
+2025-01-10,Amazon Business,Office supplies,"12,999.00",,,
+2025-01-11,Patel and Sons,Customer receipt,,"98,000.00",,
+13-Jan-2025,Delta Printing Press,Printing job,"15,750.00",,,
+2025-01-13,Sharma Consultancy,Consulting fees,"35,000.00",,,
+2025-01-14,Zenith Logistics,Logistics services,"52,000.00",,,AXISN25014000111
+2025-01-15,Verma Engineering Works,Invoice INV1015,"74,500.00",,INV1015,
+16-Jan-2025,High Tension Cables Industries,Cable supply,"300,000.00",,,ICICN25016777001
+2025-01-18,Mehta Packaging,Packaging material,"28,300.00",,,
+2025-01-18,Mehta Packaging,Packaging material,"28,300.00",,,
+2025-01-19,Royal Caterers,Event catering,"26,400.00",,,
+20-Jan-2025,Google Workspace,Subscription,"4,720.00",,,
+2025-01-21,Orion Software Licenses,Annual licences,"95,000.00",,,
+2025-01-22,Singh and Co Advisors,Advisory receipt,,"56,000.00",,
+2025-01-24,HDFC Loan EMI,Loan instalment,"42,000.00",,,
+25-Jan-2025,Arora Retail,Customer receipt,,"310,000.00",,
+2025-01-26,Kapoor Hardware,Hardware purchase,"11,800.00",,,
+2025-01-29,ABC Supplier,Payment for INV1022,"38,500.00",,INV1022,HDFCN25027555123
+2025-01-28,National Insurance Company,Premium,"22,000.00",,,
+29-Jan-2025,Uber India,Local travel,"1,850.00",,,
+2025-01-30,Iyer Associates,Professional fees,"67,000.00",,,
+2025-01-31,Bank Interest,Savings interest,,"2,140.50",,
+2025-01-31,Bose Interiors,Cheque issued - not yet presented,"17,500.00",,,
+30-Jan-2025,Rao Stationers,Petty purchase,"5,400.00",,,
